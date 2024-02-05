@@ -1,4 +1,4 @@
-* 机器学习
+* [机器学习](机器学习.md)
   * [Dive-into-DL-TensorFlow2.0](Dive-into-DL-TensorFlow2.0.md)
     * BP
     * RNN
@@ -6,3 +6,4 @@
 * Verilog
 * 数电
 * 模电
+* [关于我](关于我.md)
